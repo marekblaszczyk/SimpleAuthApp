@@ -1,13 +1,14 @@
 {
   "name": "SimpleAuthApp",
-  "version": "0.0.0",
-  "description": "Simple Auth App",
+  "version": "1.0.0",
+  "description": "Simple auth app",
   "main": "index.js",
+  "repository": "",
   "scripts": {
-    "test": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
-  "author": "Marek Błaszczyk",
-  "license": "BSD-2-Clause",
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
     "babel-loader": "^6.2.0",
